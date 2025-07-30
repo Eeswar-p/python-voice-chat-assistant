@@ -1,5 +1,12 @@
+install packages:
+.........................
 openai
 murf
 whisper
 sounddevice
 numpy 
+
+get api keys:
+.......................
+openai
+murf
